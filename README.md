@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://github.com/mymadhavyadav16/mymadhavyadav16"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>  
-    <a href="https://github.com/mymadhavyadav16/mymadhavyadav16/stargazers"><img src="https://img.shields.io/github/stars/mymadhavyadav16/mymadhavyadav16/mymadhavyadav16.svg"></a>
-    <a href="https://github.com/mymadhavyadav16/mymadhavyadav16/network/members"><img src="https://img.shields.io/github/forks/mymadhavyadav16/mymadhavyadav16/mymadhavyadav16.svg?color=blue"></a>
+    <a href="https://github.com/mymadhavyadav16/mymadhavyadav16/stargazers"><img src="https://img.shields.io/github/stars/mymadhavyadav16/mymadhavyadav16.svg"></a>
+    <a href="https://github.com/mymadhavyadav16/mymadhavyadav16/network/members"><img src="https://img.shields.io/github/forks/mymadhavyadav16/mymadhavyadav16.svg?color=blue"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=mymadhavyadav16.mymadhavyadav16" alt="visitors"/>  
         
 
