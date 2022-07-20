@@ -32,10 +32,12 @@
 
 | ![Weak-AI's github stats](https://github-readme-stats.vercel.app/api?username=mymadhavyadav16&show_icons=true&theme=radical&include_all_commits=true) | ![Weak-AI's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mymadhavyadav16&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mymadhavyadav16"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mymadhavyadav16"></img>  
+  
 
 
-![](https://github.com/mymadhavyadav16/Weak-AI/blob/master/assets/github-user-contribution.svg)
+
+![github contribution grid snake animation](https://github.com/mymadhavyadav16/mymadhavyadav16/blob/main/assets/github-contribution.svg#gh-dark-mode-only)
 
 <!-- **📫 How to Reach me:**
 <p align="left">
