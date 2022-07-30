@@ -30,7 +30,7 @@
 ![Weak-AI's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mymadhavyadav16&hide_border=true&theme=redical)
 
 
-| ![Weak-AI's github stats](https://github-readme-stats.vercel.app/api?username=mymadhavyadav16&show_icons=true&theme=radical&include_all_commits=true) | ![Weak-AI's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mymadhavyadav16&theme=radical&layout=compact) |
+ ![Weak-AI's github stats](https://github-readme-stats.vercel.app/api?username=mymadhavyadav16&show_icons=true&theme=radical&include_all_commits=true)  ![Weak-AI's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mymadhavyadav16&theme=radical&layout=compact) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mymadhavyadav16"></img>  
   
