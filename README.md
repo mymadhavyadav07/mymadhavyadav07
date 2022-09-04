@@ -72,8 +72,8 @@ Some of my contributions are as follows-
 
 
 
-**Made with ❤ by Weak-AI**  
-![Weak-AI](https://avatars.githubusercontent.com/u/66372332?v=4)
+**Made with ❤ by Madhav Yadav**  
+![Madhav Yadav](https://avatars.githubusercontent.com/u/66372332?v=4)
 
 
 
