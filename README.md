@@ -56,7 +56,19 @@ AI/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mymadhavyadav07" alt="Weak-AI" /></a>
+</p>  
+
+------  
+### ⭐ I am currently working on - [The-Vision](https://github.com/mymadhavyadav07/The-Vision)
+
+
+------  
 </p>
+<h3 align="left">Connect with me</h3>
+<p align="left"><a href="https://twitter.com/mymadhavyadav07" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" height="30" width="30" /></a> Twitter
+<p align="left"><a href="https://www.linkedin.com/in/madhav-yadav-23a93224a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="90" /></a> LinkedIn
+
+------  
 
 
 #### Thanks for visiting 😀 
