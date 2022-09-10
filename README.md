@@ -7,8 +7,9 @@
         
 
 </p>  
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p align="center">
+  <img src="https://github.com/mymadhavyadav07/mymadhavyadav07/blob/main/assets/Fira%20Code%20Light.gif" alt="animated" />
+</p>
 
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
@@ -31,14 +32,14 @@
 ![Weak-AI's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mymadhavyadav07&hide_border=true&theme=redical)
 
 
- ![Weak-AI's github stats](https://github-readme-stats.vercel.app/api?username=mymadhavyadav07&show_icons=true&theme=radical&include_all_commits=true)  ![Weak-AI's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mymadhavyadav07&theme=radical&layout=compact) 
+ ![Madhav Yadav's github stats](https://github-readme-stats.vercel.app/api?username=mymadhavyadav07&show_icons=true&theme=radical&include_all_commits=true)  ![Madhav Yadav's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mymadhavyadav07&theme=radical&layout=compact) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mymadhavyadav07"></img>  
   
 
 
 
-![github contribution grid snake animation](https://github.com/mymadhavyadav07/mymadhavyadav07/blob/main/assets/github-contribution.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/mymadhavyadav07/mymadhavyadav07/blob/main/assets/github-contribution.svg#gh-dark-mode-only)  
 
 <!-- **📫 How to Reach me:**
 <p align="left">
@@ -51,8 +52,9 @@ AI/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p> -->
 
 <div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div>
+    :trophy: Github Profile Trophy
+
+</div>  
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mymadhavyadav07" alt="Weak-AI" /></a>
