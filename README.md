@@ -24,9 +24,9 @@
 
 <br>
 
-- A passionate Computer Science Student
-- Playing CTF's at spare time
-- Currently learning Cyber Security by Self
+- Cyber Security Researcher.
+- Playing CTF's at spare time.
+- Currently learning Cyber Security by Self.
 <!-- - Personal website [link](https://www.mymadhavyadav07.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/mymadhavyadav07) -->
 
