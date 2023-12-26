@@ -108,8 +108,8 @@
 <div align="center">
 
 <a href="https://github.com/mymadhavyadav07/">
-  <img src="https://github-readme-stats.vercel.app/api?username=mymadhavyadav07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mymadhavyadav07&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="mymadhavyadav07"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mymadhavyadav07&show_icons=true&theme=dark" width="450"/><br></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mymadhavyadav07&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="mymadhavyadav07"/> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mymadhavyadav07"></img>  
 
 
@@ -127,18 +127,15 @@
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/mymadhavyadav07/mymadhavyadav07/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
 
+<p align='left'>
 <ul>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=Follow%20%40mymadhavyadav07)](https://twitter.com/mymadhavyadav07)  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=Follow%20%40mymadhavyadav07)](https://www.linkedin.com/company/shallvhack)  
-
 </ul>
-</div>
+</p>
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
@@ -171,12 +168,14 @@
 
 #### Thanks for visiting 😀 
 You may check out some of my great repos -  
-> The-Vision(v1.0) @https://github.com/mymadhavyadav07/The-Vision  
-> Flight-Tracker   @https://github.com/mymadhavyadav07/Flight-Tracker  
-  
+> NetaSoochak - @https://github.com/mymadhavyadav07/NetaSoochak  
+> The-Vision(v1.0) - @https://github.com/mymadhavyadav07/The-Vision  
+> Flight-Tracker - @https://github.com/mymadhavyadav07/Flight-Tracker  
+> The-Hacker-News-Scraper - @https://github.com/mymadhavyadav07/The-Hacker-News-Scraper
+
 Some of my contributions are as follows-  
-> instagram-location-search  -  @https://github.com/mymadhavyadav07/instagram-location-search (Pull request - @https://github.com/bellingcat/instagram-location-search/pull/7)  
-> InstaBot                   -  @https://github.com/mymadhavyadav07/InstaBot  (Pull request - @https://github.com/vyvivekyadav04/InstaBot/pull/2)
+> InstaBot                   - @https://github.com/vyvivekyadav04/InstaBot/pull/2
+
 
 **Also don't forget to ⭐ my repos (I know you are ignoring this message 🙂🙃)**  
 
