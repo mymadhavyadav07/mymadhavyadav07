@@ -12,7 +12,10 @@
 
 ## About Me
 
-Hey there! I'm Madhav, a versatile tech enthusiast proficient in both Python development and cybersecurity research. With a knack for writing clean and efficient code, I specialize in crafting robust applications, automation scripts, and web services using Python. Simultaneously, I'm deeply passionate about cybersecurity, and am currently exploring every aspect of security. I thrive on unraveling intricate security puzzles and leveraging Python. Let's collaborate and innovate in both the realms of software development and cybersecurity!
+I'm an enthusiastic AI/ML Developer with a strong foundation in Python, data science, and full-stack web development. 
+I love building tech with purpose to impact social life. I am Proficient in
+Python and frameworks such as Django, with hands-on experience in building scalable
+applications and automating processes.
 
 
 
