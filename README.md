@@ -20,7 +20,7 @@ applications and automating processes.
 
 
 
-## Check out my [portfolio](https://mymadhavyadav07.github.io)✨
+## Check out my [portfolio](https://mymadhavyadav07.vercel.app)✨
 
 
 
