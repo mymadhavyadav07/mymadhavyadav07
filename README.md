@@ -23,6 +23,34 @@ applications and automating processes.
 ## Check out my [portfolio](https://mymadhavyadav07.vercel.app)✨
 
 
+# 🏢 My GitHub Organizations
+
+A simple showcase of the organizations I'm part of.
+
+---
+
+<p align="left">
+  <a href="https://github.com/OSINT-JOURNO" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/232069887?s=200&v=4" width="80" height="80" alt="OSINT JOURNO" />
+    <br />
+    <strong>OSINT JOURNO</strong>
+  </a>
+</p>
+
+---
+
+<p align="left">
+  <a href="https://github.com/shallvhack" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/15109539?s=200&v=4" width="80" height="80" alt="ShallVhack" />
+    <br />
+    <strong>ShallVhack</strong>
+  </a>
+</p>
+
+---
 
 
 ### Let's create something awesome together! 💻✨
+
+
+
