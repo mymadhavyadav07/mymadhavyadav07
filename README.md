@@ -27,6 +27,17 @@ applications and automating processes.
 
 A simple showcase of the organizations I'm part of.
 
+
+---
+
+<p align="left">
+  <a href="https://github.com/Open-Papertrade" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/258598073?s=200&v=4" width="80" height="80" alt="Open Papertrade Logo" />
+    <br />
+    <strong>OPEN PAPERTRADE</strong>
+  </a>
+</p>
+
 ---
 
 <p align="left">
